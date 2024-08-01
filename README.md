@@ -56,4 +56,4 @@ Feel free to explore the repository, and don’t hesitate to reach out if you ha
 
 ## Contact
 
-You can reach me on [LinkedIn] `www.linkedin.com/in/swapnilalaspure` for any queries or collaborations.
+You can reach me on [LinkedIn](http://www.linkedin.com/in/swapnilalaspure) for any queries or collaborations.
