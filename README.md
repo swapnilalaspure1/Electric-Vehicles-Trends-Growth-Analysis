@@ -3,7 +3,7 @@
 Welcome to my project on analyzing Electric Vehicle (EV) trends and growth in India, supported by the invaluable guidance of Codebasics, Dhaval Patel, and Hemanand Vadivel Sir.
 
 ## 📊 Live Dashboard
-Explore the live dashboard for interactive insights: [Live Dashboard Link]([https://lnkd.in/gZx2ysaS](https://www.novypro.com/project/electric-vehicles-trends--growth-analysis))
+Explore the live dashboard for interactive insights: https://lnkd.in/gZx2ysaS](https://www.novypro.com/project/electric-vehicles-trends--growth-analysis
 
 ## Project Overview
 
