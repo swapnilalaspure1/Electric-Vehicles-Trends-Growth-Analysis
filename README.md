@@ -5,7 +5,7 @@ Welcome to my project on analyzing Electric Vehicle (EV) trends and growth in In
 ## 📊 Live Dashboard
 Explore the live dashboard for interactive insights: https://www.novypro.com/project/electric-vehicles-trends--growth-analysis
 ## 📊 Video Presentation Link:
-[Watch the Video on LinkedIn](https://www.linkedin.com/posts/swapnilalaspure_here-analytical-techniques-activity-7224562177632821249-lmeN?utm_source=share&utm_medium=member_desktop)
+[Watch the Video on YouTube](https://youtu.be/q5Zgue_4Nwc?si=VcsjnzmJwliEm2gi)
 
 
 ## Project Overview
